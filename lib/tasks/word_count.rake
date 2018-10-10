@@ -12,4 +12,7 @@ task :word_count do
   # The special word from the file is in the variable 'special_word'.
   # =====================================================================
   
+  
+  ap(text)
+  ap(text.size)
 end
